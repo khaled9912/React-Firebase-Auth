@@ -1,5 +1,5 @@
 ## content
-it is a simple project that I have showed the basic Authentication process  using firbase with React like Login, SiginUp, and ForgetPassword to reset password.
+In This project I have showed the basic Authentication process  using firbase with React like Login, SiginUp, and ForgetPassword to reset password.
 ## Firebase
 here is the link https://firebase.google.com/
 Firebase is the easiest way to make authentication processes and it's free so, feel free to create an account.
